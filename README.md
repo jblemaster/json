@@ -1,0 +1,2 @@
+# json
+YUI.Env.JSONP.yui_3_16_0_ym19_1_1518919262671_67364([{"channel":"/meta/subscribe", "timestamp":"2018-02-18T02:39:37.666346", "successful":true, "clientId":"bf1onepush84.225313261518921577559486280663803.p30FQlG.gx0qarTrS.XgOJbdajZO0EY2jr.lAlWDmX9ugyeiV.g4OSsA", "channelName":"/yahoo/mail/breakingnews", "subscription":"/yahoo/mail/breakingnews", "id":"26", "ext":{ "Comet-auth-token":""}, "advice":{"interval":1000}}])
